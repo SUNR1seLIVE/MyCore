@@ -1,0 +1,11 @@
+{
+  "name": "mycore",
+  "version": "1.0.0",
+  "description": "Three.js Core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SUNR1se",
+  "license": "ISC"
+}
