@@ -1,0 +1,1 @@
+{"version":3,"file":"furnEngine.js","sourceRoot":"","sources":["../../src/furnEngine/furnEngine.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,MAAM,gBAAgB,CAAC;AAElC,MAAM,CAAC,OAAO,OAAO,UAAU;IAC3B,IAAI,CAAC,SAAyB,EAAE,EAAU;QACtC,IAAI,CAAC,IAAI,EAAE,CAAC;QACZ,IAAI,CAAC,UAAU,CAAC,IAAI,CAAC,SAAS,CAAC,CAAC;IACpC,CAAC;CACH"}
