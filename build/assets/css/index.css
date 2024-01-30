@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+}
+
+body header {
+  width: 100%;
+  height: 50px;
+}
+
+body .wrap{
+  position: relative;
+  width: 100%;
+  height: calc(100% - 50px);
+  display: flex;
+
+}
+
+body .wrap .sidebar{
+  width: 350px;
+  height: 100%;
+}
+
+body .wrap #engine{
+  width: calc(100% - 350px);
+  height: 100%;
+}
